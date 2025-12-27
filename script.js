@@ -1,5 +1,5 @@
 // Configurable variables - Change these to customize
-const BIRTHDAY_DATE = new Date('2025-12-26T00:00:00'); // Set to the birthday date at midnight
+const BIRTHDAY_DATE = new Date('2026-12-26T00:00:00'); // Set to the birthday date at midnight
 const HER_NAME = 'Suchetha'; // Change to the person's name
 
 // Messages for typewriter effect
@@ -225,3 +225,4 @@ function showRandomMessage() {
 
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', init);
+
